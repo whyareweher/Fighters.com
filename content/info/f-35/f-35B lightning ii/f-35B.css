@@ -1,0 +1,35 @@
+.con
+{
+    text-align: center;
+}
+
+.inf
+{
+    font-size: 20px;
+    color: black;
+    float: left;
+    text-align: left;
+    padding: 10px;
+}
+
+
+
+.m
+{
+    text-align: center;
+    font-size: 20px;
+}
+
+.m div
+{
+    display: inline-block;
+}
+
+
+
+.no-1, .no-2, .no-3
+{
+    background-color: yellow;
+    text-align: left;
+    padding: 4px;
+}

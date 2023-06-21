@@ -1,0 +1,29 @@
+.con div
+{
+    
+
+    float: left;
+
+    display:inline-block;
+
+    text-align: center;
+}
+
+.con div :hover
+{
+    font-size: 20px;
+}
+
+.con ul
+{
+    list-style: none;
+}
+
+
+
+
+
+
+
+    
+
