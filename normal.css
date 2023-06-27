@@ -1,0 +1,30 @@
+.big
+{
+    background-color: rgb(119, 84, 41);
+    margin: auto;
+    width: 1000px;
+    font-size: 20px;
+}
+
+.intro
+{
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+.shad
+{
+    background-color: #f4511e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    cursor: pointer;
+}
+  
+.shad:hover {opacity: 1}
